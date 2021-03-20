@@ -1,2 +1,2 @@
 # LuckyRoulette
-Lucky Wheel Andorid Application
+A simple Android application, which shows how to realize Speen Wheel
